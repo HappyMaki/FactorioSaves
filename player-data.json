@@ -721,7 +721,7 @@
           },
           
           {
-            "elapsed": 252968
+            "elapsed": 51572
           }
         ]
       }
@@ -921,28 +921,6 @@
   "blueprint-view": "list",
   "main-menu-simulations-played": 
   [
-    "platform_science",
-    "nauvis_uranium_processing",
-    "gleba_egg_escape",
-    "nauvis_big_defense",
-    "nauvis_biter_base_laser_defense",
-    "fulgora_recycling_hell",
-    "aquilo_send_help",
-    "fulgora_city_crossing",
-    "vulcanus_lava_forge",
-    "nauvis_logistic_robots",
-    "nauvis_brutal_defeat",
-    "nauvis_biter_base_steamrolled",
-    "fulgora_race",
-    "nauvis_mining_defense",
-    "nauvis_t_section",
-    "gleba_farm_attack",
-    "nauvis_lab",
-    "nauvis_oil_pumpjacks",
-    "nauvis_burner_city",
-    "nauvis_biter_base_player_attack",
-    "nauvis_solar_power_construction",
-    "nauvis_oil_refinery",
     "nauvis_artillery",
     "vulcanus_crossing",
     "nauvis_train_junction",
@@ -960,7 +938,16 @@
     "gleba_agri_towers",
     "nauvis_biter_base_artillery",
     "nauvis_tank_building",
-    "gleba_pentapod_ponds"
+    "gleba_pentapod_ponds",
+    "gleba_grotto",
+    "vulcanus_sulfur_drop",
+    "nauvis_river_bridge",
+    "fulgora_nightfall",
+    "nauvis_biter_base_laser_defense",
+    "nauvis_oil_refinery",
+    "nauvis_biter_base_steamrolled",
+    "nauvis_brutal_defeat",
+    "nauvis_biter_base_player_attack"
   ],
-  "ticks-since-last-tip-shown": 1150186
+  "ticks-since-last-tip-shown": 1534725
 }
