@@ -723,7 +723,7 @@
           },
           
           {
-            "elapsed": 220221
+            "elapsed": 81894
           }
         ]
       }
@@ -964,7 +964,9 @@
     "nauvis_solar_power_construction",
     "nauvis_logistic_robots",
     "nauvis_mining_defense",
-    "platform_science"
+    "platform_science",
+    "aquilo_send_help",
+    "gleba_egg_escape"
   ],
-  "ticks-since-last-tip-shown": 2693800
+  "ticks-since-last-tip-shown": 2775694
 }
