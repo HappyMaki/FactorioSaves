@@ -330,7 +330,9 @@
           "count": 7
         },
         
-        {}
+        {
+          "triggered": true
+        }
       ]
     },
     "pump-connection": 
@@ -342,7 +344,7 @@
       "status": "suggested",
       "skip_status": 
       {
-        "count": 10
+        "count": 12
       }
     },
     "logistic-network": 
@@ -721,7 +723,7 @@
           },
           
           {
-            "elapsed": 51572
+            "elapsed": 220221
           }
         ]
       }
@@ -947,7 +949,22 @@
     "nauvis_oil_refinery",
     "nauvis_biter_base_steamrolled",
     "nauvis_brutal_defeat",
-    "nauvis_biter_base_player_attack"
+    "nauvis_biter_base_player_attack",
+    "nauvis_lab",
+    "nauvis_big_defense",
+    "fulgora_recycling_hell",
+    "vulcanus_lava_forge",
+    "nauvis_t_section",
+    "nauvis_uranium_processing",
+    "nauvis_burner_city",
+    "gleba_farm_attack",
+    "fulgora_city_crossing",
+    "fulgora_race",
+    "nauvis_oil_pumpjacks",
+    "nauvis_solar_power_construction",
+    "nauvis_logistic_robots",
+    "nauvis_mining_defense",
+    "platform_science"
   ],
-  "ticks-since-last-tip-shown": 1534725
+  "ticks-since-last-tip-shown": 2693800
 }
