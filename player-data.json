@@ -723,7 +723,7 @@
           },
           
           {
-            "elapsed": 81894
+            "elapsed": 270819
           }
         ]
       }
@@ -923,28 +923,6 @@
   "blueprint-view": "list",
   "main-menu-simulations-played": 
   [
-    "nauvis_artillery",
-    "vulcanus_crossing",
-    "nauvis_train_junction",
-    "nauvis_biter_base_spidertron",
-    "nauvis_train_station",
-    "nauvis_biolab",
-    "aquilo_starter",
-    "nauvis_chase_player",
-    "nauvis_ship_rails",
-    "nauvis_spider_ponds",
-    "nauvis_nuclear_power",
-    "nauvis_forest_fire",
-    "nauvis_early_smelting",
-    "vulcanus_punishmnent",
-    "gleba_agri_towers",
-    "nauvis_biter_base_artillery",
-    "nauvis_tank_building",
-    "gleba_pentapod_ponds",
-    "gleba_grotto",
-    "vulcanus_sulfur_drop",
-    "nauvis_river_bridge",
-    "fulgora_nightfall",
     "nauvis_biter_base_laser_defense",
     "nauvis_oil_refinery",
     "nauvis_biter_base_steamrolled",
@@ -966,7 +944,9 @@
     "nauvis_mining_defense",
     "platform_science",
     "aquilo_send_help",
-    "gleba_egg_escape"
+    "gleba_egg_escape",
+    "vulcanus_punishmnent",
+    "nauvis_tank_building"
   ],
-  "ticks-since-last-tip-shown": 2775694
+  "ticks-since-last-tip-shown": 3046513
 }
