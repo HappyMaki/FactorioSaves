@@ -344,7 +344,7 @@
       "status": "suggested",
       "skip_status": 
       {
-        "count": 17
+        "count": 19
       }
     },
     "logistic-network": 
@@ -929,7 +929,13 @@
     "nauvis_biolab",
     "vulcanus_sulfur_drop",
     "gleba_grotto",
-    "nauvis_chase_player"
+    "nauvis_chase_player",
+    "nauvis_river_bridge",
+    "vulcanus_crossing",
+    "nauvis_train_junction",
+    "gleba_agri_towers",
+    "nauvis_artillery",
+    "nauvis_biter_base_artillery"
   ],
-  "ticks-since-last-tip-shown": 4503014
+  "ticks-since-last-tip-shown": 6253486
 }
