@@ -344,7 +344,7 @@
       "status": "suggested",
       "skip_status": 
       {
-        "count": 16
+        "count": 17
       }
     },
     "logistic-network": 
@@ -925,7 +925,11 @@
     "nauvis_forest_fire",
     "nauvis_nuclear_power",
     "nauvis_ship_rails",
-    "gleba_pentapod_ponds"
+    "gleba_pentapod_ponds",
+    "nauvis_biolab",
+    "vulcanus_sulfur_drop",
+    "gleba_grotto",
+    "nauvis_chase_player"
   ],
-  "ticks-since-last-tip-shown": 4392497
+  "ticks-since-last-tip-shown": 4503014
 }
