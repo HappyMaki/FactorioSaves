@@ -344,7 +344,7 @@
       "status": "suggested",
       "skip_status": 
       {
-        "count": 12
+        "count": 16
       }
     },
     "logistic-network": 
@@ -699,34 +699,7 @@
     },
     "removing-trash-in-space": 
     {
-      "status": "locked",
-      "conditions": 
-      [
-        
-        {
-          "triggered": true
-        },
-        
-        {
-          "triggered": true
-        },
-        
-        {}
-      ],
-      "skip_status": 
-      {
-        "conditions": 
-        [
-          
-          {
-            "triggered": true
-          },
-          
-          {
-            "elapsed": 108211
-          }
-        ]
-      }
+      "status": "completed"
     },
     "space-science": 
     {
@@ -948,7 +921,9 @@
     "vulcanus_punishmnent",
     "nauvis_tank_building",
     "nauvis_early_smelting",
-    "nauvis_biter_base_spidertron"
+    "nauvis_biter_base_spidertron",
+    "nauvis_forest_fire",
+    "nauvis_nuclear_power"
   ],
-  "ticks-since-last-tip-shown": 3154724
+  "ticks-since-last-tip-shown": 4100327
 }
