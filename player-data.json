@@ -923,7 +923,9 @@
     "nauvis_early_smelting",
     "nauvis_biter_base_spidertron",
     "nauvis_forest_fire",
-    "nauvis_nuclear_power"
+    "nauvis_nuclear_power",
+    "nauvis_ship_rails",
+    "gleba_pentapod_ponds"
   ],
-  "ticks-since-last-tip-shown": 4100327
+  "ticks-since-last-tip-shown": 4392497
 }
