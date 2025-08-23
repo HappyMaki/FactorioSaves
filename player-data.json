@@ -344,7 +344,7 @@
       "status": "suggested",
       "skip_status": 
       {
-        "count": 19
+        "count": 20
       }
     },
     "logistic-network": 
@@ -896,28 +896,6 @@
   "blueprint-view": "list",
   "main-menu-simulations-played": 
   [
-    "nauvis_biter_base_laser_defense",
-    "nauvis_oil_refinery",
-    "nauvis_biter_base_steamrolled",
-    "nauvis_brutal_defeat",
-    "nauvis_biter_base_player_attack",
-    "nauvis_lab",
-    "nauvis_big_defense",
-    "fulgora_recycling_hell",
-    "vulcanus_lava_forge",
-    "nauvis_t_section",
-    "nauvis_uranium_processing",
-    "nauvis_burner_city",
-    "gleba_farm_attack",
-    "fulgora_city_crossing",
-    "fulgora_race",
-    "nauvis_oil_pumpjacks",
-    "nauvis_solar_power_construction",
-    "nauvis_logistic_robots",
-    "nauvis_mining_defense",
-    "platform_science",
-    "aquilo_send_help",
-    "gleba_egg_escape",
     "vulcanus_punishmnent",
     "nauvis_tank_building",
     "nauvis_early_smelting",
@@ -937,7 +915,11 @@
     "nauvis_artillery",
     "nauvis_biter_base_artillery",
     "aquilo_starter",
-    "nauvis_train_station"
+    "nauvis_train_station",
+    "nauvis_spider_ponds",
+    "fulgora_nightfall",
+    "nauvis_biter_base_laser_defense",
+    "nauvis_t_section"
   ],
-  "ticks-since-last-tip-shown": 6295120
+  "ticks-since-last-tip-shown": 7016356
 }
