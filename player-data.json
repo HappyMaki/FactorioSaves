@@ -935,7 +935,9 @@
     "nauvis_train_junction",
     "gleba_agri_towers",
     "nauvis_artillery",
-    "nauvis_biter_base_artillery"
+    "nauvis_biter_base_artillery",
+    "aquilo_starter",
+    "nauvis_train_station"
   ],
-  "ticks-since-last-tip-shown": 6253486
+  "ticks-since-last-tip-shown": 6295120
 }
