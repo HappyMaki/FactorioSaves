@@ -433,19 +433,7 @@
     },
     "ghost-building": 
     {
-      "status": "suggested",
-      "skip_status": 
-      {
-        "conditions": 
-        [
-          
-          {
-            "triggered": true
-          },
-          
-          {}
-        ]
-      }
+      "status": "completed"
     },
     "ghost-rail-planner": 
     {
@@ -474,10 +462,12 @@
       "conditions": 
       [
         
-        {},
+        {
+          "triggered": true
+        },
         
         {
-          "elapsed": 0
+          "elapsed": 7711
         },
         
         {}
@@ -487,7 +477,9 @@
         "conditions": 
         [
           
-          {},
+          {
+            "triggered": true
+          },
           
           {}
         ]
@@ -919,7 +911,9 @@
     "nauvis_spider_ponds",
     "fulgora_nightfall",
     "nauvis_biter_base_laser_defense",
-    "nauvis_t_section"
+    "nauvis_t_section",
+    "fulgora_race",
+    "nauvis_biter_base_steamrolled"
   ],
-  "ticks-since-last-tip-shown": 7016356
+  "ticks-since-last-tip-shown": 7472687
 }

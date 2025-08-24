@@ -1,119 +1,284 @@
-   0.000 2025-08-22 20:51:12; Factorio 2.0.7 (build 79385, win64, steam)
+   0.000 2025-08-23 14:55:58; Factorio 2.0.7 (build 79385, win64, steam)
    0.000 Operating system: Windows 11 (build 26100) 
    0.000 Initializing Steam API.
    0.000 Program arguments: "D:\Games\Factorio\bin\x64\factorio.exe" 
    0.000 Config path: C:/Users/brand/AppData/Roaming/Factorio/config/config.ini
    0.000 Read data path: D:/Games/Factorio/data
-   0.000 Write data path: C:/Users/brand/AppData/Roaming/Factorio [239758/953084MB]
+   0.000 Write data path: C:/Users/brand/AppData/Roaming/Factorio [240152/953084MB]
    0.000 Binaries path: D:/Games/Factorio/bin
-   0.029 System info: [CPU: AMD Ryzen 9 7900X 12-Core Processor, 24 cores, RAM: 9307/64672 MB, page: 10181/68768 MB, virtual: 4287/134217727 MB, extended virtual: 0 MB]
-   0.037 Memory info:
-   0.037  [0]: Unknown F5-6400J3239G32G 32768 MB 4800 MHz 1.1 v
-   0.037  [1]: Unknown F5-6400J3239G32G 32768 MB 4800 MHz 1.1 v
-   0.050 Display options: [FullScreen: true] [VSync: true] [UIScale: automatic (100.0%)] [Native DPI: true] [Screen: 255] [Special: lmw] [Lang: en]
+   0.029 System info: [CPU: AMD Ryzen 9 7900X 12-Core Processor, 24 cores, RAM: 9956/64672 MB, page: 10997/68768 MB, virtual: 4287/134217727 MB, extended virtual: 0 MB]
+   0.038 Memory info:
+   0.038  [0]: Unknown F5-6400J3239G32G 32768 MB 4800 MHz 1.1 v
+   0.038  [1]: Unknown F5-6400J3239G32G 32768 MB 4800 MHz 1.1 v
+   0.052 Display options: [FullScreen: true] [VSync: true] [UIScale: automatic (100.0%)] [Native DPI: true] [Screen: 255] [Special: lmw] [Lang: en]
    0.359 Video driver: windows
    0.359 Available displays: 2
    0.359  [0]: \\.\DISPLAY1 - NVIDIA GeForce RTX 4070 Ti {0x05, [0,0], 2560x1440, 32bit, 165Hz}
    0.360  [1]: \\.\DISPLAY2 - NVIDIA GeForce RTX 4070 Ti {0x01, [2560,0], 2560x1440, 32bit, 59Hz}
    0.398 [Direct3D11] Display: 0, Output: 0, DisplayAdapter: 0, RenderingAdapter: 0; d3dcompiler_47.dll
-   0.558 Initialised Direct3D[0]: NVIDIA GeForce RTX 4070 Ti; id: 10de-2782; driver: nvldumdx.dll 32.0.15.8088
-   0.558   D3D Feature Level: 11.1, DXGI 1.5+, SwapChain: 3,flip-discard,-,-,-,none
-   0.558   [Local Video Memory] Budget: 11228MB, CurrentUsage: 6MB, Reservation: 0/5742MB
-   0.558   [Non-Local Vid.Mem.] Budget: 31568MB, CurrentUsage: 0MB, Reservation: 0/15912MB
-   0.558   Tiled resources: Tier 2
-   0.558   Unified Memory Architecture: No
-   0.558   BGR 565 Supported: Yes
-   0.558   MaximumFrameLatency: 3, GPUThreadPriority: 0
-   0.558 Graphics settings preset: very-high
-   0.558   Dedicated video memory size 11996 MB
-   0.656 Desktop composition is active.
-   0.656 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality]
-   0.656                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: false] [Rotation quality: normal] [Other: STDCWT] [B:0,C:0,S:100]
-   0.689 [Audio] Driver:wasapi, Device:Default device, Depth:16, Channels:2, Frequency:44100
-   0.895 Info ModManager.cpp:434: FeatureFlag expansion-shaders = true
-   0.895 Info ModManager.cpp:434: FeatureFlag freezing = true
-   0.895 Info ModManager.cpp:434: FeatureFlag quality = true
-   0.895 Info ModManager.cpp:434: FeatureFlag rail-bridges = true
-   0.895 Info ModManager.cpp:434: FeatureFlag segmented-units = true
-   0.895 Info ModManager.cpp:434: FeatureFlag space-travel = true
-   0.895 Info ModManager.cpp:434: FeatureFlag spoiling = true
-   0.911 Loading mod core 0.0.0 (data.lua)
-   1.025 Loading mod base 2.0.7 (data.lua)
-   2.603 Loading mod elevated-rails 2.0.7 (data.lua)
-   2.804 Loading mod quality 2.0.7 (data.lua)
-   2.918 Loading mod space-age 2.0.7 (data.lua)
-   6.119 Loading mod base 2.0.7 (data-updates.lua)
-   6.135 Loading mod quality 2.0.7 (data-updates.lua)
-   6.160 Loading mod space-age 2.0.7 (data-updates.lua)
-   6.287 Checksum for core: 649243273
-   6.287 Checksum of base: 2653731351
-   6.287 Checksum of elevated-rails: 1891730324
-   6.287 Checksum of quality: 3715527832
-   6.287 Checksum of space-age: 3499025889
-   6.544 Prototype list checksum: 984080119
-   6.601 Loading sounds...
-  14.982 Info PlayerData.cpp:68: Local player-data.json unavailable
-  14.982 Info PlayerData.cpp:71: Cloud player-data.json available, timestamp 1755905279
-  15.210 Initial atlas bitmap size is 16384
-  15.222 Created an atlas bitmap (size 16384x16384) [none]
-  15.235 Created an atlas bitmap (size 16384x16380) [none]
-  15.250 Created an atlas bitmap (size 16384x16384) [none]
-  15.251 Created an atlas bitmap (size 16384x15444) [none]
-  15.251 Created an atlas bitmap (size 16384x8392) [decal]
-  15.254 Created an atlas bitmap (size 16384x16384) [low-object]
-  15.254 Created an atlas bitmap (size 4096x1472) [low-object]
-  15.255 Created an atlas bitmap (size 16384x13440) [corpse-decay]
-  15.255 Created an atlas bitmap (size 16384x5596) [none]
-  15.255 Created an atlas bitmap (size 1676x79) [not-compressed]
-  15.256 Created an atlas bitmap (size 8192x6096) [mipmap, linear-minification, linear-magnification, linear-mip-level]
-  15.260 Created an atlas bitmap (size 16384x16320) [terrain, mipmap, linear-minification, linear-mip-level]
-  15.260 Created an atlas bitmap (size 16384x4832) [terrain, mipmap, linear-minification, linear-mip-level]
-  15.260 Created an atlas bitmap (size 8192x3872) [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
-  15.261 Created an atlas bitmap (size 4096x3104) [smoke, mipmap, linear-minification, linear-magnification]
-  15.261 Created an atlas bitmap (size 8192x2576) [mipmap]
-  15.261 Created an atlas bitmap (size 2048x1520) [mipmap]
-  15.261 Created an atlas bitmap (size 4096x3152) [mipmap]
-  15.261 Created an atlas bitmap (size 4096x3152) [mipmap]
-  15.261 Created an atlas bitmap (size 4096x3152) [mipmap]
-  15.262 Created an atlas bitmap (size 8192x3792) [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
-  15.263 Created an atlas bitmap (size 16384x6120) [alpha-mask]
-  15.278 Created an atlas bitmap (size 16384x16380) [shadow, linear-magnification, alpha-mask]
-  15.283 Created an atlas bitmap (size 16384x16368) [shadow, linear-magnification, alpha-mask]
-  15.283 Created an atlas bitmap (size 16384x8364) [shadow, linear-magnification, alpha-mask]
-  15.283 Created an atlas bitmap (size 8192x2352) [shadow, mipmap, linear-magnification, alpha-mask]
-  15.283 Created an atlas bitmap (size 2048x496) [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
-  15.283 Loading 3D bitmaps.
-  15.335 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
-  15.340 Parallel sprite loader initialized (threads: 23, bitmaps: 8227)
-  25.553 Sprites loaded
-  25.598 Generated mipmaps (4) for atlas [5] of size 16384x16384   
-  25.609 Generated mipmaps (4) for atlas [6] of size 4096x1472   
-  25.620 Generated mipmaps (3) for atlas [10] of size 8192x6096   
-  25.642 Generated mipmaps (3) for atlas [11] of size 16384x16320   
-  25.653 Generated mipmaps (3) for atlas [12] of size 16384x4832   
-  25.665 Generated mipmaps (3) for atlas [13] of size 8192x3872   
-  25.676 Generated mipmaps (3) for atlas [14] of size 4096x3104   
-  25.713 Generated mipmaps (3) for atlas [15] of size 8192x2576   
-  25.723 Generated mipmaps (3) for atlas [16] of size 2048x1520   
-  25.735 Generated mipmaps (3) for atlas [17] of size 4096x3152   
-  25.762 Generated mipmaps (3) for atlas [18] of size 4096x3152   
-  25.773 Generated mipmaps (3) for atlas [19] of size 4096x3152   
-  25.784 Generated mipmaps (5) for atlas [20] of size 8192x3792   
-  25.795 Generated mipmaps (3) for atlas [25] of size 8192x2352   
-  25.819 Custom mipmaps uploaded (3203)
-  25.894 Factorio initialised
-  25.896 Steam Storage Quota: 64/64
-  29.645 Loading map C:\Users\brand\AppData\Roaming\Factorio\saves\yumi-world.zip: 12805065 bytes.
-  29.679 Loading level.dat: 26936638 bytes.
-  29.682 Info Scenario.cpp:178: Map version 2.0.7-0
-  29.965 Loading blueprint storage: Local timestamp -1, Cloud timestamp 1741957759
-  29.965 Loading script.dat: 1222 bytes.
-  29.970 Checksum for script __level__/control.lua: 2463946943
- 230.954 Info AppManager.cpp:310: Saving to _autosave3 (blocking).
- 231.159 Info AppManagerStates.cpp:2045: Saving finished
- 541.471 Info AppManager.cpp:310: Saving to _autosave1 (blocking).
- 541.669 Info AppManagerStates.cpp:2045: Saving finished
- 737.666 Info AppManagerStates.cpp:2045: Saving finished
- 746.691 Quitting: user-quit.
- 746.896 Steam API shutdown.
- 746.898 Goodbye
+   0.573 Initialised Direct3D[0]: NVIDIA GeForce RTX 4070 Ti; id: 10de-2782; driver: nvldumdx.dll 32.0.15.8088
+   0.573   D3D Feature Level: 11.1, DXGI 1.5+, SwapChain: 3,flip-discard,-,-,-,none
+   0.573   [Local Video Memory] Budget: 11228MB, CurrentUsage: 6MB, Reservation: 0/5742MB
+   0.573   [Non-Local Vid.Mem.] Budget: 31568MB, CurrentUsage: 0MB, Reservation: 0/15912MB
+   0.573   Tiled resources: Tier 2
+   0.573   Unified Memory Architecture: No
+   0.573   BGR 565 Supported: Yes
+   0.573   MaximumFrameLatency: 3, GPUThreadPriority: 0
+   0.573 Graphics settings preset: very-high
+   0.574   Dedicated video memory size 11996 MB
+   0.682 Desktop composition is active.
+   0.682 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality]
+   0.682                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: false] [Rotation quality: normal] [Other: STDCWT] [B:0,C:0,S:100]
+   0.724 [Audio] Driver:wasapi, Device:Default device, Depth:16, Channels:2, Frequency:44100
+   0.936 Info ModManager.cpp:434: FeatureFlag expansion-shaders = true
+   0.936 Info ModManager.cpp:434: FeatureFlag freezing = true
+   0.936 Info ModManager.cpp:434: FeatureFlag quality = true
+   0.936 Info ModManager.cpp:434: FeatureFlag rail-bridges = true
+   0.936 Info ModManager.cpp:434: FeatureFlag segmented-units = true
+   0.936 Info ModManager.cpp:434: FeatureFlag space-travel = true
+   0.936 Info ModManager.cpp:434: FeatureFlag spoiling = true
+   0.955 Loading mod core 0.0.0 (data.lua)
+   1.087 Loading mod base 2.0.7 (data.lua)
+   2.930 Loading mod elevated-rails 2.0.7 (data.lua)
+   3.203 Loading mod quality 2.0.7 (data.lua)
+   3.369 Loading mod space-age 2.0.7 (data.lua)
+   7.680 Loading mod base 2.0.7 (data-updates.lua)
+   7.695 Loading mod quality 2.0.7 (data-updates.lua)
+   7.719 Loading mod space-age 2.0.7 (data-updates.lua)
+   7.836 Checksum for core: 649243273
+   7.836 Checksum of base: 2653731351
+   7.836 Checksum of elevated-rails: 1891730324
+   7.836 Checksum of quality: 3715527832
+   7.836 Checksum of space-age: 3499025889
+   8.096 Prototype list checksum: 984080119
+   8.147 Loading sounds...
+  16.787 Info PlayerData.cpp:68: Local player-data.json unavailable
+  16.787 Info PlayerData.cpp:71: Cloud player-data.json available, timestamp 1755911019
+  17.033 Initial atlas bitmap size is 16384
+  17.044 Created an atlas bitmap (size 16384x16384) [none]
+  17.057 Created an atlas bitmap (size 16384x16380) [none]
+  17.072 Created an atlas bitmap (size 16384x16384) [none]
+  17.073 Created an atlas bitmap (size 16384x15444) [none]
+  17.073 Created an atlas bitmap (size 16384x8392) [decal]
+  17.077 Created an atlas bitmap (size 16384x16384) [low-object]
+  17.077 Created an atlas bitmap (size 4096x1472) [low-object]
+  17.078 Created an atlas bitmap (size 16384x13440) [corpse-decay]
+  17.078 Created an atlas bitmap (size 16384x5596) [none]
+  17.078 Created an atlas bitmap (size 1676x79) [not-compressed]
+  17.078 Created an atlas bitmap (size 8192x6096) [mipmap, linear-minification, linear-magnification, linear-mip-level]
+  17.083 Created an atlas bitmap (size 16384x16320) [terrain, mipmap, linear-minification, linear-mip-level]
+  17.083 Created an atlas bitmap (size 16384x4832) [terrain, mipmap, linear-minification, linear-mip-level]
+  17.083 Created an atlas bitmap (size 8192x3872) [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+  17.083 Created an atlas bitmap (size 4096x3104) [smoke, mipmap, linear-minification, linear-magnification]
+  17.084 Created an atlas bitmap (size 8192x2576) [mipmap]
+  17.084 Created an atlas bitmap (size 2048x1520) [mipmap]
+  17.084 Created an atlas bitmap (size 4096x3152) [mipmap]
+  17.084 Created an atlas bitmap (size 4096x3152) [mipmap]
+  17.084 Created an atlas bitmap (size 4096x3152) [mipmap]
+  17.085 Created an atlas bitmap (size 8192x3792) [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+  17.086 Created an atlas bitmap (size 16384x6120) [alpha-mask]
+  17.102 Created an atlas bitmap (size 16384x16380) [shadow, linear-magnification, alpha-mask]
+  17.106 Created an atlas bitmap (size 16384x16368) [shadow, linear-magnification, alpha-mask]
+  17.106 Created an atlas bitmap (size 16384x8364) [shadow, linear-magnification, alpha-mask]
+  17.106 Created an atlas bitmap (size 8192x2352) [shadow, mipmap, linear-magnification, alpha-mask]
+  17.106 Created an atlas bitmap (size 2048x496) [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+  17.106 Loading 3D bitmaps.
+  17.181 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+  17.184 Parallel sprite loader initialized (threads: 23, bitmaps: 8227)
+  28.543 Sprites loaded
+  28.555 Generated mipmaps (4) for atlas [5] of size 16384x16384   
+  28.567 Generated mipmaps (4) for atlas [6] of size 4096x1472   
+  28.578 Generated mipmaps (3) for atlas [10] of size 8192x6096   
+  28.589 Generated mipmaps (3) for atlas [11] of size 16384x16320   
+  28.599 Generated mipmaps (3) for atlas [12] of size 16384x4832   
+  28.611 Generated mipmaps (3) for atlas [13] of size 8192x3872   
+  28.622 Generated mipmaps (3) for atlas [14] of size 4096x3104   
+  28.652 Generated mipmaps (3) for atlas [15] of size 8192x2576   
+  28.663 Generated mipmaps (3) for atlas [16] of size 2048x1520   
+  28.675 Generated mipmaps (3) for atlas [17] of size 4096x3152   
+  28.695 Generated mipmaps (3) for atlas [18] of size 4096x3152   
+  28.705 Generated mipmaps (3) for atlas [19] of size 4096x3152   
+  28.717 Generated mipmaps (5) for atlas [20] of size 8192x3792   
+  28.733 Generated mipmaps (3) for atlas [25] of size 8192x2352   
+  28.774 Custom mipmaps uploaded (3203)
+  28.998 Factorio initialised
+  29.000 Steam Storage Quota: 64/64
+  61.378 Loading map C:\Users\brand\AppData\Roaming\Factorio\saves\yumi-world.zip: 12913257 bytes.
+  61.412 Loading level.dat: 26940420 bytes.
+  61.414 Info Scenario.cpp:178: Map version 2.0.7-0
+  61.696 Loading blueprint storage: Local timestamp -1, Cloud timestamp 1741957759
+  61.702 Loading script.dat: 1222 bytes.
+  61.706 Checksum for script __level__/control.lua: 2463946943
+ 175.927 Info AppManager.cpp:310: Saving to _autosave2 (blocking).
+ 176.127 Info AppManagerStates.cpp:2045: Saving finished
+ 476.541 Info AppManager.cpp:310: Saving to _autosave3 (blocking).
+ 476.741 Info AppManagerStates.cpp:2045: Saving finished
+ 776.724 Info AppManager.cpp:310: Saving to _autosave1 (blocking).
+ 777.071 Info AppManagerStates.cpp:2045: Saving finished
+1090.224 Info AppManager.cpp:310: Saving to _autosave2 (blocking).
+1090.423 Info AppManagerStates.cpp:2045: Saving finished
+1390.409 Info AppManager.cpp:310: Saving to _autosave3 (blocking).
+1390.616 Info AppManagerStates.cpp:2045: Saving finished
+1692.876 Info AppManager.cpp:310: Saving to _autosave1 (blocking).
+1693.076 Info AppManagerStates.cpp:2045: Saving finished
+1993.158 Info AppManager.cpp:310: Saving to _autosave2 (blocking).
+1993.356 Info AppManagerStates.cpp:2045: Saving finished
+2294.124 Info AppManager.cpp:310: Saving to _autosave3 (blocking).
+2294.323 Info AppManagerStates.cpp:2045: Saving finished
+2594.309 Info AppManager.cpp:310: Saving to _autosave1 (blocking).
+2594.513 Info AppManagerStates.cpp:2045: Saving finished
+2895.091 Info AppManager.cpp:310: Saving to _autosave2 (blocking).
+2895.285 Info AppManagerStates.cpp:2045: Saving finished
+3195.274 Info AppManager.cpp:310: Saving to _autosave3 (blocking).
+3195.473 Info AppManagerStates.cpp:2045: Saving finished
+3495.559 Info AppManager.cpp:310: Saving to _autosave1 (blocking).
+3495.760 Info AppManagerStates.cpp:2045: Saving finished
+3795.758 Info AppManager.cpp:310: Saving to _autosave2 (blocking).
+3795.960 Info AppManagerStates.cpp:2045: Saving finished
+4095.959 Info AppManager.cpp:310: Saving to _autosave3 (blocking).
+4096.158 Info AppManagerStates.cpp:2045: Saving finished
+4396.158 Info AppManager.cpp:310: Saving to _autosave1 (blocking).
+4396.358 Info AppManagerStates.cpp:2045: Saving finished
+4697.242 Info AppManager.cpp:310: Saving to _autosave2 (blocking).
+4697.443 Info AppManagerStates.cpp:2045: Saving finished
+4997.441 Info AppManager.cpp:310: Saving to _autosave3 (blocking).
+4997.642 Info AppManagerStates.cpp:2045: Saving finished
+5297.641 Info AppManager.cpp:310: Saving to _autosave1 (blocking).
+5297.836 Info AppManagerStates.cpp:2045: Saving finished
+5597.825 Info AppManager.cpp:310: Saving to _autosave2 (blocking).
+5598.030 Info AppManagerStates.cpp:2045: Saving finished
+5914.309 Info AppManager.cpp:310: Saving to _autosave3 (blocking).
+5914.512 Info AppManagerStates.cpp:2045: Saving finished
+6170.246 Info AppManagerStates.cpp:2045: Saving finished
+6222.259 Info AppManager.cpp:310: Saving to _autosave1 (blocking).
+6222.466 Info AppManagerStates.cpp:2045: Saving finished
+6347.355 Info AppManagerStates.cpp:2045: Saving finished
+6524.026 Info AppManager.cpp:310: Saving to _autosave2 (blocking).
+6524.231 Info AppManagerStates.cpp:2045: Saving finished
+6829.125 Info AppManager.cpp:310: Saving to _autosave3 (blocking).
+6829.330 Info AppManagerStates.cpp:2045: Saving finished
+7129.325 Info AppManager.cpp:310: Saving to _autosave1 (blocking).
+7129.526 Info AppManagerStates.cpp:2045: Saving finished
+7224.050 Info AppManagerStates.cpp:2045: Saving finished
+7434.907 Info AppManager.cpp:310: Saving to _autosave2 (blocking).
+7435.110 Info AppManagerStates.cpp:2045: Saving finished
+7461.330 Info AppManagerStates.cpp:2045: Saving finished
+7503.545 Info AppManagerStates.cpp:2045: Saving finished
+7507.917 Info AppManagerStates.cpp:2045: Saving finished
+7750.843 Info AppManager.cpp:310: Saving to _autosave3 (blocking).
+7751.052 Info AppManagerStates.cpp:2045: Saving finished
+7793.794 Info AppManagerStates.cpp:2045: Saving finished
+8013.276 Loading map C:\Users\brand\AppData\Roaming\Factorio\saves\yumi-world.zip: 13439605 bytes.
+8013.311 Loading level.dat: 28059298 bytes.
+8013.314 Info Scenario.cpp:178: Map version 2.0.7-0
+8013.611 Loading blueprint storage: Local timestamp -1, Cloud timestamp 1741957759
+8013.616 Loading script.dat: 1222 bytes.
+8013.641 Checksum for script __level__/control.lua: 2463946943
+8019.609 Loading map C:\Users\brand\AppData\Roaming\Factorio\saves\_autosave3.zip: 13360795 bytes.
+8019.643 Loading level.dat: 27910419 bytes.
+8019.646 Info Scenario.cpp:178: Map version 2.0.7-0
+8019.931 Loading blueprint storage: Local timestamp -1, Cloud timestamp 1741957759
+8019.932 Loading script.dat: 1222 bytes.
+8019.936 Checksum for script __level__/control.lua: 2463946943
+8022.668 Loading map C:\Users\brand\AppData\Roaming\Factorio\saves\yumi-world.zip: 13439605 bytes.
+8022.700 Loading level.dat: 28059298 bytes.
+8022.703 Info Scenario.cpp:178: Map version 2.0.7-0
+8022.991 Loading blueprint storage: Local timestamp -1, Cloud timestamp 1741957759
+8022.992 Loading script.dat: 1222 bytes.
+8022.996 Checksum for script __level__/control.lua: 2463946943
+8282.291 Info AppManager.cpp:310: Saving to _autosave1 (blocking).
+8282.494 Info AppManagerStates.cpp:2045: Saving finished
+8289.809 Info AppManagerStates.cpp:2045: Saving finished
+8357.970 Loading map C:\Users\brand\AppData\Roaming\Factorio\saves\yumi-world.zip: 13432807 bytes.
+8358.006 Loading level.dat: 28150028 bytes.
+8358.009 Info Scenario.cpp:178: Map version 2.0.7-0
+8358.301 Loading blueprint storage: Local timestamp -1, Cloud timestamp 1741957759
+8358.302 Loading script.dat: 1222 bytes.
+8358.306 Checksum for script __level__/control.lua: 2463946943
+8500.509 Loading map C:\Users\brand\AppData\Roaming\Factorio\saves\yumi-world.zip: 13432807 bytes.
+8500.543 Loading level.dat: 28150028 bytes.
+8500.546 Info Scenario.cpp:178: Map version 2.0.7-0
+8500.834 Loading blueprint storage: Local timestamp -1, Cloud timestamp 1741957759
+8500.834 Loading script.dat: 1222 bytes.
+8500.839 Checksum for script __level__/control.lua: 2463946943
+8829.209 Info AppManager.cpp:310: Saving to _autosave2 (blocking).
+8829.418 Info AppManagerStates.cpp:2045: Saving finished
+8906.232 Info AppManagerStates.cpp:2045: Saving finished
+8924.894 Info AppManagerStates.cpp:2045: Saving finished
+8988.702 Info AppManagerStates.cpp:2045: Saving finished
+9112.216 Info AppManagerStates.cpp:2045: Saving finished
+9135.957 Info AppManager.cpp:310: Saving to _autosave3 (blocking).
+9136.158 Info AppManagerStates.cpp:2045: Saving finished
+9232.528 Info AppManagerStates.cpp:2045: Saving finished
+9354.565 Info AppManagerStates.cpp:2045: Saving finished
+9439.441 Info AppManager.cpp:310: Saving to _autosave1 (blocking).
+9439.650 Info AppManagerStates.cpp:2045: Saving finished
+9739.642 Info AppManager.cpp:310: Saving to _autosave2 (blocking).
+9739.843 Info AppManagerStates.cpp:2045: Saving finished
+10039.841 Info AppManager.cpp:310: Saving to _autosave3 (blocking).
+10040.052 Info AppManagerStates.cpp:2045: Saving finished
+10340.042 Info AppManager.cpp:310: Saving to _autosave1 (blocking).
+10340.249 Info AppManagerStates.cpp:2045: Saving finished
+10575.790 Info AppManagerStates.cpp:2045: Saving finished
+10637.606 Info AppManagerStates.cpp:2045: Saving finished
+10665.378 Info AppManagerStates.cpp:2045: Saving finished
+10687.169 Loading map C:\Users\brand\AppData\Roaming\Factorio\saves\yumi-world.zip: 13444298 bytes.
+10687.201 Loading level.dat: 28562635 bytes.
+10687.204 Info Scenario.cpp:178: Map version 2.0.7-0
+10687.495 Loading blueprint storage: Local timestamp -1, Cloud timestamp 1741957759
+10687.496 Loading script.dat: 1222 bytes.
+10687.500 Checksum for script __level__/control.lua: 2463946943
+10712.475 Info AppManager.cpp:310: Saving to _autosave2 (blocking).
+10712.680 Info AppManagerStates.cpp:2045: Saving finished
+10866.514 Info AppManagerStates.cpp:2045: Saving finished
+11014.674 Info AppManager.cpp:310: Saving to _autosave3 (blocking).
+11014.887 Info AppManagerStates.cpp:2045: Saving finished
+11145.676 Info AppManagerStates.cpp:2045: Saving finished
+11149.993 Info AppManagerStates.cpp:2045: Saving finished
+11185.194 Info AppManagerStates.cpp:2045: Saving finished
+11221.326 Info AppManagerStates.cpp:2045: Saving finished
+11275.208 Loading map C:\Users\brand\AppData\Roaming\Factorio\saves\yumi-world.zip: 13750612 bytes.
+11275.245 Loading level.dat: 28762279 bytes.
+11275.248 Info Scenario.cpp:178: Map version 2.0.7-0
+11275.537 Loading blueprint storage: Local timestamp -1, Cloud timestamp 1741957759
+11275.537 Loading script.dat: 1222 bytes.
+11275.542 Checksum for script __level__/control.lua: 2463946943
+11379.490 Info AppManager.cpp:310: Saving to _autosave1 (blocking).
+11379.694 Info AppManagerStates.cpp:2045: Saving finished
+11482.180 Info AppManagerStates.cpp:2045: Saving finished
+11508.943 Loading map C:\Users\brand\AppData\Roaming\Factorio\saves\yumi-world.zip: 13506082 bytes.
+11508.977 Loading level.dat: 28758700 bytes.
+11508.980 Info Scenario.cpp:178: Map version 2.0.7-0
+11509.267 Loading blueprint storage: Local timestamp -1, Cloud timestamp 1741957759
+11509.267 Loading script.dat: 1222 bytes.
+11509.272 Checksum for script __level__/control.lua: 2463946943
+11675.289 Loading map C:\Users\brand\AppData\Roaming\Factorio\saves\yumi-world.zip: 13506082 bytes.
+11675.321 Loading level.dat: 28758700 bytes.
+11675.324 Info Scenario.cpp:178: Map version 2.0.7-0
+11675.618 Loading blueprint storage: Local timestamp -1, Cloud timestamp 1741957759
+11675.618 Loading script.dat: 1222 bytes.
+11675.623 Checksum for script __level__/control.lua: 2463946943
+11824.881 Info AppManagerStates.cpp:2045: Saving finished
+11854.289 Info AppManagerStates.cpp:2045: Saving finished
+11878.408 Info AppManager.cpp:310: Saving to _autosave2 (blocking).
+11878.614 Info AppManagerStates.cpp:2045: Saving finished
+11956.925 Loading map C:\Users\brand\AppData\Roaming\Factorio\saves\_autosave2.zip: 13817213 bytes.
+11956.957 Loading level.dat: 28999969 bytes.
+11956.960 Info Scenario.cpp:178: Map version 2.0.7-0
+11957.249 Loading blueprint storage: Local timestamp -1, Cloud timestamp 1741957759
+11957.250 Loading script.dat: 1222 bytes.
+11957.255 Checksum for script __level__/control.lua: 2463946943
+11960.131 Loading map C:\Users\brand\AppData\Roaming\Factorio\saves\yumi-world.zip: 13751735 bytes.
+11960.163 Loading level.dat: 28806569 bytes.
+11960.166 Info Scenario.cpp:178: Map version 2.0.7-0
+11960.439 Loading blueprint storage: Local timestamp -1, Cloud timestamp 1741957759
+11960.439 Loading script.dat: 1222 bytes.
+11960.444 Checksum for script __level__/control.lua: 2463946943
+11984.525 Info AppManager.cpp:310: Saving to _autosave2 (blocking).
+11984.736 Info AppManagerStates.cpp:2045: Saving finished
+12284.724 Info AppManager.cpp:310: Saving to _autosave3 (blocking).
+12284.927 Info AppManagerStates.cpp:2045: Saving finished
+12308.005 Info AppManagerStates.cpp:2045: Saving finished
+12310.578 Quitting: user-quit.
+12310.827 Steam API shutdown.
+12310.828 Goodbye
