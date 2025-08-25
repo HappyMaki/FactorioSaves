@@ -341,11 +341,7 @@
     },
     "train-stop-same-name": 
     {
-      "status": "suggested",
-      "skip_status": 
-      {
-        "count": 20
-      }
+      "status": "completed"
     },
     "logistic-network": 
     {
@@ -458,20 +454,7 @@
     },
     "copy-paste": 
     {
-      "status": "locked",
-      "conditions": 
-      [
-        
-        {
-          "triggered": true
-        },
-        
-        {
-          "elapsed": 7711
-        },
-        
-        {}
-      ],
+      "status": "suggested",
       "skip_status": 
       {
         "conditions": 
@@ -888,32 +871,32 @@
   "blueprint-view": "list",
   "main-menu-simulations-played": 
   [
-    "vulcanus_punishmnent",
-    "nauvis_tank_building",
-    "nauvis_early_smelting",
-    "nauvis_biter_base_spidertron",
-    "nauvis_forest_fire",
-    "nauvis_nuclear_power",
-    "nauvis_ship_rails",
-    "gleba_pentapod_ponds",
-    "nauvis_biolab",
-    "vulcanus_sulfur_drop",
-    "gleba_grotto",
-    "nauvis_chase_player",
-    "nauvis_river_bridge",
-    "vulcanus_crossing",
-    "nauvis_train_junction",
-    "gleba_agri_towers",
-    "nauvis_artillery",
-    "nauvis_biter_base_artillery",
-    "aquilo_starter",
-    "nauvis_train_station",
-    "nauvis_spider_ponds",
-    "fulgora_nightfall",
     "nauvis_biter_base_laser_defense",
     "nauvis_t_section",
     "fulgora_race",
-    "nauvis_biter_base_steamrolled"
+    "nauvis_biter_base_steamrolled",
+    "gleba_egg_escape",
+    "nauvis_oil_refinery",
+    "nauvis_burner_city",
+    "nauvis_logistic_robots",
+    "nauvis_uranium_processing",
+    "nauvis_big_defense",
+    "nauvis_biter_base_player_attack",
+    "vulcanus_lava_forge",
+    "nauvis_lab",
+    "gleba_farm_attack",
+    "aquilo_send_help",
+    "fulgora_recycling_hell",
+    "nauvis_brutal_defeat",
+    "nauvis_mining_defense",
+    "platform_science",
+    "fulgora_city_crossing",
+    "nauvis_oil_pumpjacks",
+    "nauvis_solar_power_construction",
+    "vulcanus_sulfur_drop",
+    "nauvis_chase_player",
+    "vulcanus_punishmnent",
+    "nauvis_river_bridge"
   ],
-  "ticks-since-last-tip-shown": 7472687
+  "ticks-since-last-tip-shown": 402849
 }
